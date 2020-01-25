@@ -1,0 +1,46 @@
+﻿Industry,Company,Twitter_Handle,Begin Date,End date,Actual Date,Topic
+SocialNetwork,Snapchat,SnapChat,9/6/2015,9/16/2015,9/11/2015,Creativity
+Airlines,Air China,"airchina, racism",9/2/2016,9/12/2016,9/7/2016,Racial
+Automobile,Nissan,nissan and CarlosGhosn,3/31/2019,4/9/2019,4/4/2019,Misconduct
+SocialNetwork,SnapChat1,#snappening,10/5/2014,10/18/2014,10/11/2014,Databreach
+Automobile,Volkswagen,Volkswagen and recall ,9/15/2015,9/30/2015,2019/09/18/28,Misconduct
+Outfit&Accessories,Gucci,Gucci  OR blackface ,2/1/2019,2/11/2019,2/6/2019,Racial
+Beauty,Sephora,(to:Sephora) until:2019-05-4 since:2019-04-28,4/28/2019,5/4/2019,4/30/2019,Racial
+Beauty,SeoulSecret,(#seoulsecret) lang:en until:2016-01-11 since:2016-01-5,1/3/2016,1/13/2016,1/8/2016,Racial
+Outfit&Accessories,Nike,nike and ZionWilliamson,2/15/2019,2/25/2019,2/20/2019,Malfunction
+Outfit&Accessories,H&M,HM and CharlesMBlow ,1/2/2018,1/12/2018,1/7/2018,Racial
+Electronic,Sony,sonyhack,11/19/2014,11/29/2014,11/24/2014,Databreach
+Product,HomeDepot,#homedepot,8/29/2014,9/9/2014,9/3/2014,Databreach
+Electronic,Huawei,huawei and meng wanzhou ,5/3/2019,5/13/2019,5/8/2019,Misconduct
+Electronic,Apple,apple and slow ,11/26/2017,12/6/2017,1/1/2017,Malfunction
+Beauty,Nivea,niveaus,3/26/2017,4/6/2017,3/31/2017,Racial
+Hospitality,Marriott,#marriotthack,11/27/2018,12/6/2018,11/30/2018,Databreach
+Beauty,Shea Moisturizer,(#SheaMoisture OR AllLivesMatter) ,4/19/2017,4/29/2017,4/24/2017,Racial
+Electronic,Samsung,#Galaxynote7,9/7/2016,10/16/2016,9/12/2016,Malfunction
+SocialNetwork,Yahoo,#yahoo #databreach,9/18/2016,9/28/2016,9/22/2016,Databreach
+Food,WholeFoods,WholeFoods,3/1/2016,3/10/2016,3/4/2016,Wastage
+Food,KFC,KFCCrisis,2/15/2018,2/25/2018,2/18/2018,Shortage
+Food,StarBucks1,MerryChristmasStarbucks,11/5/2015,11/25/2015,11/9/2015,Creativity
+Food,StarBucks2,Starbucks,4/10/2018,4/24/2018,4/14/2018,Racial
+Food,Pepsi,pepsi,4/1/2017,4/14/2017,4/4/2017,Marketing
+Food,Crockpot,CrockPotCares,1/20/2018,1/30/2018,1/24/2018,Victim
+Food,Cuisinart,cuisinartrecall,12/10/2016,12/20/2016,12/13/2016,Safety
+Food,Chipotle ,chipotleecoli,12/9/2015,12/19/2015,12/11/2015,Hygiene
+Food,Morrison's Milk,milkforfarmers,11/4/2015,11/14/2015,11/8/2015,Price
+Food,Ihop,IHOP,6/1/2018,6/14/2018,6/7/2018,Identity
+Bank,WellsFargo,WellsFargoFraud,8/25/2016,9/7/2016,9/1/2016,
+Bank,GoldmanSachs,(#1MDB OR #GoldmanSachs) lang:en until:2018-12-10 since:2018-12-03,12/3/2018,12/10/2018,12/3/2018,
+Bank,Zenefits,Zenefits,2/1/2016,2/10/2016,2/5/2016,
+Airlines,British Airways,BritishAirways,5/25/2017,6/5/2017,5/27/2017,FlightDelay
+Airlines,Southwest Airlines,SouthwestAir,4/14/2018,4/24/2018,4/17/2018,EmergencyLanding
+Airlines,Cebu pacific,CebuPacificAir,6/25/2016,7/5/2016,6/30/2016,FlightDelay
+Airlines,Southwest Airlines Laguardia,#southwest AND #Laguardia until:2013-7-25since:2013-7-23,7/20/2013,7/30/2013,7/23/2013,Aircrash
+Airlines,Lufthansa,#GermanWingsCrash,3/20/2015,3/30/2015,3/24/2015,Aircrash
+Outfit&Accessories,Nike,Nike,8/31/2018,9/10/2018,9/3/2018,
+Financial Services,Equifax,Equifax,8/27/2017,9/17/2017,9/7/2017,Databreach
+Airlines,United Airlines,boycottunited,4/8/2017,4/20/2017,4/9/2017,Misconduct 
+SocialNetwork,Slack,Slack and databreach,3/25/2015,4/5/2015,3/27/2015,Databreach
+Product,Target,Target,12/15/2013,12/27/2013,12/19/2013,Databreach
+SocialNetwork,GitLab,GitLab,1/25/2017,2/5/2017,1/31/2017,Databreach
+Automobile,General Motors,GeneralMotors,1/26/2014,2/8/2014,2/12/2014,Malfunction
+Product,Tide,Tide,1/5/2018,1/15/2018,1/10/2018,
